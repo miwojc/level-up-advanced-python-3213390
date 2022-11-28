@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "level-up-advanced-python-3213390"
+  site-url: "https://miwojc.github.io/level-up-advanced-python-3213390"
+  description: "This is a LinkedIn Learning repo for Level Up: Advanced Core Python."
+  repo-branch: main
+  repo-url: "https://github.com/miwojc/level-up-advanced-python-3213390"
